@@ -1,0 +1,10 @@
+.menu_navigation_header {
+    display: flex;
+    justify-content: space-around;
+    list-style-type: none;
+    align-items: center;
+}
+
+img {
+    width: 50%;
+}
